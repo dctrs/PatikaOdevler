@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    width: 1000px;
+    /*  
+      margin-left: auto;
+      margin-right: auto;*/
+    margin: 50px auto 0;
+  }
+  .content {
+    width: 800px;
+    float: left;
+    height: auto;
+  }
+  
+.container{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}.content {
+    width: 800px;
+    float: left;
+    height: auto;
+  }
+  .bb{
+background-color: rgb(137, 181, 205);  }
+.buttons{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+    width: 20%;
+  float: left;
+  padding: 1%;
+  margin-right: 2%;
+  border-radius: 50px;
+
+}
+.cards{
+    margin: 80px;
+    float: left;
+}
+.content2
+{
+  font-size: 24px;
+  width: 800px;
+    float: left;
+    height: auto;
+}
+.right
+{
+  width: 200px;
+  float: left;
+}.left{
+  padding-right: 50px;
+  width: 200px;
+  float: left;
+}.mid{
+  padding-right: 100px;
+  width: 200px;
+  float: left;
+}
